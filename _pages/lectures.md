@@ -1,7 +1,7 @@
 ---
 layout: schedule
-permalink: /lectures/
-title: Schedule
+permalink: /schedule/
+title: schedule
 ---
 
 {% assign current_module = 0 %}
